@@ -1,3 +1,10 @@
-/build/
+/build/classes/
+/build/compileSync/
+/build/kotlin/
+/build/js/
+/build//libs/
+/build/processedResources/
+/build/reports/
+/build/tmp/
 /.idea/
 /.gradle/
