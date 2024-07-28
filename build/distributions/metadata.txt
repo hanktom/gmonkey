@@ -6,6 +6,7 @@
 // @version     0.1
 // @author      Hank Tom
 // @description 7/28/2024, 9:43:07 PM
-// @require     file://C:\2024\gtvmonkey-scripts\build\distributions\gtvmonkey.js
-// @require     file://C:\2024\gtvmonkey-scripts\build\distributions\gtvmonkey.user.js
+// @require     https://github.com/hanktom/gmonkey/tree/master/build/distributions/gtvmonkey.js
+// @require     https://github.com/hanktom/gmonkey/tree/master/build/distributions/gtvmonkey.user.js
+// @require     https://github.com/hanktom/gmonkey/tree/master/build/distributions/gtvmonkey.js.map
 // ==/UserScript==
