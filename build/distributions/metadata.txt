@@ -10,3 +10,7 @@
 // @require     https://github.com/hanktom/gmonkey/tree/master/build/distributions/gtvmonkey.user.js
 // @require     https://github.com/hanktom/gmonkey/tree/master/build/distributions/gtvmonkey.js.map
 // ==/UserScript==
+
+$(document).ready(function() {
+    console.log('Hello');
+}
