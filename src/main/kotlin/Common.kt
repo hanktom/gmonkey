@@ -5,7 +5,8 @@ import org.w3c.dom.HTMLElement
 import org.w3c.dom.get
 
 fun main() {
-    helloWorld()
+    console.info("Testing")
+    //helloWorld()
    // hideImages()
    // floatingMenu()
 }
